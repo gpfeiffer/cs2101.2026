@@ -4,3 +4,4 @@ matplotlib
 pillow
 pandoc
 yfinance
+scipy
